@@ -17,7 +17,7 @@
 	],
 
 	"WorkContent": [
-		"I am currently working with Raman Research Institute to set up a VLBI(Very Large Baseline Interferometery) based SWAN (Sky Watch Array Network) which is a pan India Interferometry based Radio Telescope."
+		"I  am currently working with Raman Research Institute to set up a VLBI(Very Large Baseline Interferometery) based SWAN (Sky Watch Array Network) which is a pan India Interferometry based Radio Telescope."
 	],
 	"WorkImage": "https://i.imgur.com/GnPm4mC.png",
 	"InternshipsStartLine": "I have interned with :",
@@ -31,7 +31,7 @@
 		},
 		{
 			"name": "BITS Pilani under Dr. Sangeeta Sharma",
-			"link": "https://drive.google.com/file/d/1IQ3sWLlBVwz7ZzveRjWxhayIrywn2CxJ/view?usp=sharing",
+			"link": "https://drive.google.com/file/d/1IQ3sWLlBVwz7ZzveRjWxhayIrywn2CxJ/view?usp=sharing"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
@@ -40,29 +40,29 @@
 			"link": "https://github.com/AbhinavSwami28"
 		},
 		{
-			"name": "Simulation of Digital Design Gates using Logisim",
+			"name": "Simulation of Digital Design Systems using Logisim",
 			"link": "https://github.com/AbhinavSwami28"
 		},
 		{
-			"name": "Computational Physics codes",
+			"name": "Computational Physics MATLAB codes",
 			"link": "https://github.com/AbhinavSwami28"
 		},
 		{
 			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/AbhinavSwami28/Personal-homepage-Draft-1"
+			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
 		}
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"CV": "https://drive.google.com/file/d/1vXKOTGt6F8iBiWEbk76xUuHWvogn9qsB/view?usp=sharing",
-	"Resume": "#",
+	"Resume": "",
 
 	"emailid": "mailto:swami.abhinav28@gmail.com",
-	"linkedin": "https://www.linkedin.com/in/abhinav-swami-817656170/",
+	"linkedin": "hhttps://www.linkedin.com/in/abhinav-swami-817656170/",
 	"wordpress": "",
 	"facebook": "https://www.facebook.com/swami.abhinav",
 	"github": "https://github.com/AbhinavSwami28",
-	"instagram":"",
+	"instagram": "",
 	"twitter": "https://twitter.com/swami__baba",
-	"medium": "",
+	"medium": ""
 }
